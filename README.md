@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | Game Developer | Full-Stack Engineer**  
 
-I love tackling complex problems, creating intuitive user experiences, and pushing the boundaries of technology. Whether it's building scalable web applications, optimizing backend systems, or crafting immersive game environments, I'm always up for a challenge.  
+I love tackling complex problems, creating intuitive user experiences, and pushing the boundaries of technology. Whether it's building scalable web applications, optimizing backend systems, or crafting immersive game environments, I'm always up for a challenge. My current is to publish a multiplayer exploring game with proximity voicechat on steam! Also I like the banana farmer from BTD6 so it is my pfp
 
 ## 🔧 Technical Skills  
 
