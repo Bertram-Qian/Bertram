@@ -41,4 +41,4 @@ I love tackling complex problems, creating intuitive user experiences, and pushi
 ---  
 
 ### 📫 **Let's Connect!**  
-🔗 [LinkedIn](#) • 📂 [Portfolio](#) • ✉️ [Email](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bertram-qian/) • 📂 [Portfolio](#) • ✉️ [Email](mailto:bertramqian@gmail.com)  
